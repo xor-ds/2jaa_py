@@ -1,0 +1,15 @@
+# For j2aa_gui
+tk
+configparser
+xmltodict
+requests
+datetime
+pathlib
+
+# j2aa_web
+dash
+celery
+xmltodict
+diskcache
+dash[diskcache]
+-e /Users/denis/Projects/jiralib

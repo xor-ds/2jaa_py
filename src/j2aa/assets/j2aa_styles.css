@@ -1,0 +1,40 @@
+.left-column {
+    width: 150px;
+    vertical-align: top;
+    text-align: right;
+}
+
+.progress_text{
+    text-align: left;
+}
+
+.right-column {
+    width: 200px;
+    vertical-align: top;
+    text-align: center;
+}
+
+
+.center-column {
+    width: 500px
+}
+
+.field {
+    width: 100%
+}
+
+.field-label {}
+
+.button{
+    width:90%
+}
+
+.log-area{
+    width: 100%;
+    height: 200px;
+
+    border:0.25px solid grey;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
